@@ -67,7 +67,18 @@
       "iconUrl": "https://cdn.phototourl.com/free/2026-08-18-6aafd304-163e-491b-8a48-37c5bb3c1273.png"
     }
   ],
-  "stockAccounts": [],
+  "stockAccounts": [
+    {
+      "id": "001",
+      "premium": "PELAJAR",
+      "game": "Free Fire",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788231324657_ffcoah.jpg"
+      ],
+      "price": "400.000",
+      "description": "Sg rapper"
+    }
+  ],
   "rentalAccounts": [
     {
       "id": "738",
