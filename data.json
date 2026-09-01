@@ -28,7 +28,23 @@
     }
   ],
   "jbGroups": [],
-  "stockAccounts": [],
+  "stockAccounts": [
+    {
+      "id": "009",
+      "premium": "REGULER",
+      "game": "Free Fire",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788256883366_vo02r2.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788256920761_1mmtm1.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788256927324_9vfnom.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788256933561_esn6eq.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788256936681_zi6oiw.jpg"
+      ],
+      "price": "Rp650.000",
+      "description": "",
+      "status": "ready"
+    }
+  ],
   "rentalAccounts": [
     {
       "id": "001",
