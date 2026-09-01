@@ -91,22 +91,6 @@
       "login": "Google",
       "statusText": "Tersedia",
       "statusColor": "green"
-    },
-    {
-      "id": "FREEFIRE",
-      "premium": "REGULER",
-      "images": [
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248269065_jfbh2y.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248272546_mmlz11.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248275705_gvp3cp.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248279835_djuwv0.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248282018_mde667.jpg"
-      ],
-      "price": "Rp3.000/Jam",
-      "description": "",
-      "login": "Google",
-      "statusText": "Tersedia",
-      "statusColor": "green"
     }
   ]
 }
