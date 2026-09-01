@@ -65,22 +65,7 @@
       "iconUrl": "https://cdn.phototourl.com/free/2026-08-18-6aafd304-163e-491b-8a48-37c5bb3c1273.png"
     }
   ],
-  "stockAccounts": [
-    {
-      "id": "011",
-      "premium": "SULTAN",
-      "game": "Free Fire",
-      "images": [
-        "https://img.sanishtech.com/u/7bc8091f995f448e7341dddc407a53ff.jpg",
-        "https://img.sanishtech.com/u/08319960f70ab038826a9b704346b5e5.jpg",
-        "https://img.sanishtech.com/u/4e2aa93c8e03d439acbe35c76adbed43.jpg",
-        "https://img.sanishtech.com/u/4aa832b90584a41a008b17ff7fbe41b6.jpg",
-        "https://img.sanishtech.com/u/627430fb1116afb34dd684b5479cf4ca.jpg"
-      ],
-      "price": "Rp559.000",
-      "description": "Skin lengkap otw max 2 ak dan groza full bundle anime sasuke bluelock sg reaper"
-    }
-  ],
+  "stockAccounts": [],
   "rentalAccounts": [
     {
       "id": "001",
