@@ -87,6 +87,21 @@
       "price": "Rp250.000",
       "description": "",
       "status": "ready"
+    },
+    {
+      "id": "016",
+      "premium": "REGULER",
+      "game": "Free Fire",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788271468945_rcnh9w.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788271472088_gy8x1i.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788271474847_ox04s9.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788271479509_oqt2ec.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788271483782_6tlaf9.jpg"
+      ],
+      "price": "Rp620.000",
+      "description": "",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
