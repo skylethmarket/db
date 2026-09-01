@@ -66,17 +66,5 @@
     }
   ],
   "stockAccounts": [],
-  "rentalAccounts": [
-    {
-      "id": "004",
-      "premium": "VVIP",
-      "images": [
-        "https://cdn.phototourl.com/member/2026-08-19-48fa81d9-c2df-4c30-a15a-69ec94331386.jpg",
-        "https://img.sanishtech.com/u/07158dfc474744aa112e26df4568db41.jpg"
-      ],
-      "price": "Rp7.000 / 1 Jam",
-      "description": "Sg opm gurun koleksi skin anime banyak ada sasuke itachi celana genji max 1 ak",
-      "login": "Google"
-    }
-  ]
+  "rentalAccounts": []
 }
