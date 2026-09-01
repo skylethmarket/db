@@ -43,6 +43,21 @@
       "price": "Rp650.000",
       "description": "",
       "status": "ready"
+    },
+    {
+      "id": "001",
+      "premium": "PELAJAR",
+      "game": "Free Fire",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788257149453_j4o3o5.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788257157180_bsg399.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788257163698_rpqonf.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788257171180_idol7t.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788257174637_ytmczo.jpg"
+      ],
+      "price": "Rp300. 000",
+      "description": "",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
