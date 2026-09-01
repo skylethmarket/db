@@ -68,17 +68,6 @@
   "stockAccounts": [],
   "rentalAccounts": [
     {
-      "id": "002",
-      "premium": "PREMIUM",
-      "images": [
-        "https://cdn.phototourl.com/member/2026-08-18-112d0fc4-d6cb-4337-b1b1-c6d2f987760a.jpg",
-        "https://user25988.na.imgto.link/public/20260821/1006620173.avif"
-      ],
-      "price": "Rp5.000 / 1 Jam",
-      "description": "Koleksi skin anime banyak vault gagah sg opm kemeja putih bundle collan anime jujutsu kaisen",
-      "login": "Google"
-    },
-    {
       "id": "004",
       "premium": "VVIP",
       "images": [
