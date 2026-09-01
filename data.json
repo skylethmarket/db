@@ -27,7 +27,14 @@
       "imageUrl": "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788232480642_6vo4uz.jpg"
     }
   ],
-  "jbGroups": [],
+  "jbGroups": [
+    {
+      "id": "1788303627102",
+      "title": "JB 1 SKYLETHMARKET",
+      "link": "https://chat.whatsapp.com/Icm7Vp3ZUp8EWLSkoBr4zv?s=cl&p=a&mlu=4&ilr=4",
+      "iconUrl": "https://cdn.phototourl.com/free/2026-08-18-6aafd304-163e-491b-8a48-37c5bb3c1273.png"
+    }
+  ],
   "stockAccounts": [
     {
       "id": "009",
