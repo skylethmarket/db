@@ -67,19 +67,6 @@
   ],
   "stockAccounts": [
     {
-      "id": "002",
-      "premium": "SULTAN",
-      "game": "Free Fire",
-      "images": [
-        "https://files.catbox.moe/fj5ip1.jpg",
-        "https://img.sanishtech.com/u/106a88e0252d12e2790d02d41e71e376.jpg",
-        "https://img.sanishtech.com/u/a858fb0b9bfec0a3b5a49967cd99bf1d.jpg",
-        "https://img.sanishtech.com/u/6f82bab3dac6322976821d06a59e2fc7.jpg"
-      ],
-      "price": "Rp700.000",
-      "description": "Baju kemeja putih ak max 1 sg opm megumi jjk"
-    },
-    {
       "id": "009",
       "premium": "SULTAN",
       "game": "Free Fire",
