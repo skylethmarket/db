@@ -28,19 +28,7 @@
     }
   ],
   "jbGroups": [],
-  "stockAccounts": [
-    {
-      "id": "653",
-      "premium": "PELAJAR",
-      "game": "Free Fire",
-      "images": [
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788242978029_okdov8.jpg"
-      ],
-      "price": "100.000",
-      "description": "Speknya",
-      "status": "sold"
-    }
-  ],
+  "stockAccounts": [],
   "rentalAccounts": [
     {
       "id": "001",
