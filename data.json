@@ -68,19 +68,6 @@
   "stockAccounts": [],
   "rentalAccounts": [
     {
-      "id": "001",
-      "premium": "REGULER",
-      "images": [
-        "https://cdn.phototourl.com/free/2026-08-18-e0814016-4375-43a1-8c86-1672f9fa44af.jpg",
-        "https://cdn.phototourl.com/free/2026-08-18-0589bbfe-22e8-4307-825c-00fa595ef807.jpg",
-        "https://cdn.phototourl.com/free/2026-08-18-8cf34334-ed7e-4e56-8697-cc3427d5348b.jpg",
-        "https://cdn.phototourl.com/free/2026-08-18-0aa9cb57-d5d3-42cf-9d11-0f56f384df13.jpg"
-      ],
-      "price": "Rp3.000 / 1 Jam",
-      "description": "Celana genji dan angel merah sg reaper face joker incu utama banyak bundle anime banyak hasil collab jujutsu kaisen jjk",
-      "login": "Google"
-    },
-    {
       "id": "005",
       "premium": "REGULER",
       "images": [
