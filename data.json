@@ -67,19 +67,6 @@
   ],
   "stockAccounts": [
     {
-      "id": "001",
-      "premium": "PELAJAR",
-      "game": "Free Fire",
-      "images": [
-        "https://img.sanishtech.com/u/d045466ed5b540fb35f2564a2f1e3b6f.jpg",
-        "https://img.sanishtech.com/u/11e3936dce461dff65ee8a2b184b12d4.jpg",
-        "https://img.sanishtech.com/u/40d81d584a4232b22c19bd32572a4d72.jpg",
-        "https://img.sanishtech.com/u/8868d9245f572af9956e9e2ad45a4ebe.jpg"
-      ],
-      "price": "Rp300.000",
-      "description": "Celana genji sg reapee full anime collab megumi jujutsu kaisem jjk"
-    },
-    {
       "id": "002",
       "premium": "SULTAN",
       "game": "Free Fire",
