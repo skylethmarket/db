@@ -68,18 +68,6 @@
   "stockAccounts": [],
   "rentalAccounts": [
     {
-      "id": "005",
-      "premium": "REGULER",
-      "images": [
-        "https://cdn.phototourl.com/member/2026-08-18-74b83461-f666-4c67-9fdb-f7e1ed1ae7f8.jpg",
-        "https://user25988.na.imgto.link/public/20260821/1006620027.avif",
-        "https://user25988.na.imgto.link/public/20260821/1006620032.avif"
-      ],
-      "price": "Rp3.000 / 1 Jam",
-      "description": "max 1 ak clubber on sg opm vault banyak",
-      "login": "Google"
-    },
-    {
       "id": "002",
       "premium": "PREMIUM",
       "images": [
