@@ -67,19 +67,6 @@
   ],
   "stockAccounts": [
     {
-      "id": "009",
-      "premium": "SULTAN",
-      "game": "Free Fire",
-      "images": [
-        "https://img.sanishtech.com/u/8cc0e85036fd4b38803287c29dac1db1.jpg",
-        "https://img.sanishtech.com/u/8594f872e759e535d6b677afbbb39db8.jpg",
-        "https://img.sanishtech.com/u/fbbc9bb614fd4876177b08ecc3e3633d.jpg",
-        "https://img.sanishtech.com/u/6bd106b3fb2b376b6d80d4c30cd96605.jpg"
-      ],
-      "price": "Rp650.000",
-      "description": "Bundle anime bluelock celana genji sg opm"
-    },
-    {
       "id": "011",
       "premium": "SULTAN",
       "game": "Free Fire",
