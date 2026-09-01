@@ -107,6 +107,21 @@
       "login": "Google",
       "statusText": "Tersedia",
       "statusColor": "green"
+    },
+    {
+      "id": "002",
+      "premium": "PREMIUM",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248523329_ax4iz3.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248533885_5m4a1y.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248542251_0b18t7.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788248548256_xcgfhx.jpg"
+      ],
+      "price": "Rp5.000/Jam",
+      "description": "",
+      "login": "Google",
+      "statusText": "Tersedia",
+      "statusColor": "green"
     }
   ]
 }
