@@ -44,6 +44,23 @@
       "login": "Google",
       "statusText": "TERSEDIA",
       "statusColor": "green"
+    },
+    {
+      "id": "005",
+      "premium": "REGULER",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788247257774_xb8og3.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788247280130_tktz95.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788247291367_f22xuc.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788247298953_oe9ezu.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788247310461_kxmj9e.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788247320090_nwhkwv.jpg"
+      ],
+      "price": "Rp3.000/Jam",
+      "description": "",
+      "login": "Google",
+      "statusText": "Tersedia",
+      "statusColor": "green"
     }
   ]
 }
