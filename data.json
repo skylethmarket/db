@@ -72,6 +72,17 @@
       "price": "Rp650.000",
       "description": "",
       "status": "ready"
+    },
+    {
+      "id": "EFB-01",
+      "premium": "REGULER",
+      "game": "eFootball",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788259048783_3mtr55.jpg"
+      ],
+      "price": "Rp250.000",
+      "description": "",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
