@@ -1,13 +1,15 @@
 {
   "config": {
     "siteTitle": "SKYLETH MARKET",
-    "contactPhone": "085137188530",
-    "rentalPhone": "085137188530",
+    "siteDescription": "Jual Beli dan Rentak Akun Game #1 di Indonesia 🇮🇩",
+    "contactPhone": "6285137188530",
+    "rentalPhone": "6285137188530",
     "waChannelLink": "https://whatsapp.com/channel/0029VbC6RbNHFxOydx60tV3r",
     "tutorialLink": "https://youtu.be/R25Q4B7Iaq0?si=m0xEEHqtF08kssDW",
     "topupLink": "https://skylethmarket.grosirtopup.com",
     "logoUrl": "https://cdn.phototourl.com/free/2026-08-18-7c8d48c5-64f7-4ca6-89a2-3642bc43da1d.png",
-    "footerLogoUrl": "https://cdn.phototourl.com/free/2026-08-18-53886756-f998-43e4-b0ab-10ea74fed92e.png"
+    "footerLogoUrl": "https://cdn.phototourl.com/free/2026-08-18-53886756-f998-43e4-b0ab-10ea74fed92e.png",
+    "faviconUrl": "https://cdn.phototourl.com/free/2026-08-18-7c8d48c5-64f7-4ca6-89a2-3642bc43da1d.png"
   },
   "banners": [
     {
