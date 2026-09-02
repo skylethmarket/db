@@ -139,6 +139,21 @@
       "price": "Rp620.000",
       "description": "sg opm mp40 max 1 celana genji bundle genos topeng merah incubator utama",
       "status": "ready"
+    },
+    {
+      "id": "008",
+      "premium": "PELAJAR",
+      "game": "Free Fire",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788345973769_rl3ost.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788345978524_uaqbvp.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788345981409_2hg059.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788345984171_ybwv7i.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788345987670_as0cao.jpg"
+      ],
+      "price": "Rp299.000",
+      "description": "sg reaper parot terompet bundle naruto bundle cluber",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
