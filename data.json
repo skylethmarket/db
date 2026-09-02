@@ -217,8 +217,8 @@
       "price": "Rp3.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "FULL BOOKING",
-      "statusColor": "red"
+      "statusText": "AKUN TERSEDIA",
+      "statusColor": "green"
     },
     {
       "id": "002",
