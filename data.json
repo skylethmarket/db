@@ -154,6 +154,19 @@
       "price": "Rp299.000",
       "description": "sg reaper parot terompet bundle naruto bundle cluber",
       "status": "ready"
+    },
+    {
+      "id": "MLBB1",
+      "premium": "PELAJAR",
+      "game": "Mobile Legends",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788489961235_37jke4.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788489964710_jghg0b.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788489966876_w82q7l.jpg"
+      ],
+      "price": "Rp100.000",
+      "description": "",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
