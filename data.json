@@ -213,8 +213,8 @@
       "price": "Rp3.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "AKUN TERSEDIA",
-      "statusColor": "green"
+      "statusText": "TERSEDIA SABTU BESOK",
+      "statusColor": "red"
     },
     {
       "id": "006",
