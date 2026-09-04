@@ -167,6 +167,20 @@
       "price": "Rp100.000",
       "description": "",
       "status": "ready"
+    },
+    {
+      "id": "EFB2",
+      "premium": "PELAJAR",
+      "game": "eFootball",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788490987899_xi182x.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788490990037_ya9yzj.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788490992363_zyskm2.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788490996358_bugdfh.jpg"
+      ],
+      "price": "Rp300.000",
+      "description": "",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
