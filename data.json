@@ -244,7 +244,7 @@
       "description": "",
       "login": "Google",
       "statusText": "TERSEDIA 22.45 WIB",
-      "statusColor": "green"
+      "statusColor": "red"
     },
     {
       "id": "002",
