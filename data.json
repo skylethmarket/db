@@ -258,8 +258,8 @@
       "price": "Rp5.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "AKUN TERSEDIA",
-      "statusColor": "green"
+      "statusText": "TERSEDIA 20.30 WIB",
+      "statusColor": "red"
     },
     {
       "id": "012",
