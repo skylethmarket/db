@@ -289,8 +289,8 @@
       "price": "7.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "AKUN TERSEDIA",
-      "statusColor": "green"
+      "statusText": "AKUN TIDAK TERSEDIA",
+      "statusColor": "red"
     },
     {
       "id": "007",
