@@ -181,6 +181,17 @@
       "price": "Rp300.000",
       "description": "data akun sudah terjamin aman karena telah melalui proses pengamanan oleh admin profesional",
       "status": "sold"
+    },
+    {
+      "id": "EFB3",
+      "premium": "PELAJAR",
+      "game": "eFootball",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788774188387_rss8xh.jpg"
+      ],
+      "price": "Rp150.000",
+      "description": "data akun sudah terjamin aman karena telah melalui proses pengamanan oleh admin profesional",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
