@@ -317,8 +317,8 @@
       "price": "7.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "TERSEDIA 20.00 WIB",
-      "statusColor": "red"
+      "statusText": "AKUN TERSEDIA",
+      "statusColor": "green"
     },
     {
       "id": "007",
