@@ -193,6 +193,22 @@
       "price": "Rp150.000",
       "description": "data akun sudah terjamin aman karena telah melalui proses pengamanan oleh admin profesional",
       "status": "ready"
+    },
+    {
+      "id": "017",
+      "premium": "PELAJAR",
+      "game": "Free Fire",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788774526405_e14477.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788774529374_8gjnax.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788774534035_m4tbvm.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788774549472_b5uc65.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788774552747_33i1qk.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788774556142_y65ja9.jpg"
+      ],
+      "price": "Rp350.000",
+      "description": "",
+      "status": "ready"
     }
   ],
   "rentalAccounts": [
