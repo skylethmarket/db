@@ -271,8 +271,8 @@
       "price": "Rp3.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "AKUN TIDAK TERSEDIA",
-      "statusColor": "red"
+      "statusText": "AKUN TERSEDIA",
+      "statusColor": "green"
     },
     {
       "id": "002",
