@@ -338,7 +338,7 @@
       "description": "",
       "login": "Google",
       "statusText": "TERSEDIA 11 SEP 20:00 WIB",
-      "statusColor": "green"
+      "statusColor": "red"
     },
     {
       "id": "016",
