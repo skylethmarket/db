@@ -423,7 +423,7 @@
       "statusColor": "red"
     },
     {
-      "id": "018",
+      "id": "014",
       "premium": "PREMIUM",
       "images": [
         "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882735202_s8xerx.jpg",
@@ -435,8 +435,8 @@
       "price": "Rp5.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "TERSEDIA 17.15 WIB",
-      "statusColor": "red"
+      "statusText": "TERSEDIA",
+      "statusColor": "green"
     }
   ]
 }
