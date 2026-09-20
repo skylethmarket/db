@@ -403,6 +403,24 @@
       "login": "Google",
       "statusText": "TERSEDIA",
       "statusColor": "green"
+    },
+    {
+      "id": "008",
+      "premium": "PREMIUM",
+      "images": [
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882339383_h9vfw6.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882345635_8tijoi.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882351398_et2o1m.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882355191_22abnn.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882360013_7y02xk.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882373218_n3oeyj.jpg",
+        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882390274_wrg2c8.jpg"
+      ],
+      "price": "Rp5.000/Jam",
+      "description": "",
+      "login": "Google",
+      "statusText": "TERSEDIA",
+      "statusColor": "green"
     }
   ]
 }
