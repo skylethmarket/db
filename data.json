@@ -416,11 +416,11 @@
         "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882373218_n3oeyj.jpg",
         "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1789882390274_wrg2c8.jpg"
       ],
-      "price": "PROMO Rp3.000/Jam",
+      "price": "Rp5.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "TERSEDIA 16.30 WIB",
-      "statusColor": "red"
+      "statusText": "TERSEDIA",
+      "statusColor": "green"
     },
     {
       "id": "014",
