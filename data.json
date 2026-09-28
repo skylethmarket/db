@@ -241,7 +241,7 @@
       "description": "",
       "login": "Google",
       "statusText": "TIDAK TERSEDIA",
-      "statusColor": "green"
+      "statusColor": "red"
     },
     {
       "id": "011",
