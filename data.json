@@ -435,8 +435,8 @@
       "price": "Rp5.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "TERSEDIA SELASA 22.00 WIB",
-      "statusColor": "red"
+      "statusText": "TERSEDIA",
+      "statusColor": "green"
     }
   ]
 }
