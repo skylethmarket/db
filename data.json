@@ -337,8 +337,8 @@
       "price": "7.000/Jam",
       "description": "",
       "login": "Google",
-      "statusText": "TERSEDIA",
-      "statusColor": "green"
+      "statusText": "TIDAK TERSEDIA",
+      "statusColor": "red"
     },
     {
       "id": "016",
