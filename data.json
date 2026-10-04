@@ -274,21 +274,6 @@
       "statusColor": "red"
     },
     {
-      "id": "004",
-      "premium": "VVIP",
-      "images": [
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249323715_8s3mi1.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249338764_884ybz.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249347618_7v2mm6.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249353757_cxavm2.jpg"
-      ],
-      "price": "7.000/Jam",
-      "description": "",
-      "login": "Google",
-      "statusText": "TIDAK TERSEDIA",
-      "statusColor": "red"
-    },
-    {
       "id": "007",
       "premium": "VVIP",
       "images": [
