@@ -291,24 +291,6 @@
       "statusColor": "red"
     },
     {
-      "id": "013",
-      "premium": "VVIP",
-      "images": [
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249752177_slnx27.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249786935_olybgw.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249793131_nje7nn.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249803346_b6ckzb.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249817863_04jg7v.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249824494_k98oxe.jpg",
-        "https://raw.githubusercontent.com/skylethmarket/db/main/uploads/1788249832200_v7r7vw.jpg"
-      ],
-      "price": "7.000/Jam",
-      "description": "",
-      "login": "Google",
-      "statusText": "TIDAK TERSEDIA",
-      "statusColor": "red"
-    },
-    {
       "id": "016",
       "premium": "REGULER",
       "images": [
